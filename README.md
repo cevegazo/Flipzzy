@@ -1,2 +1,2 @@
 # Flipzzy
-Aplicacion de diversion 
+Aplicación movil Flutter 
